@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https//fbezall.github.io/monsters-rolex/static/css/main.ef620aec.chunk.css",
+    "main.js": "/https//fbezall.github.io/monsters-rolex/static/js/main.49a6e5c0.chunk.js",
+    "main.js.map": "/https//fbezall.github.io/monsters-rolex/static/js/main.49a6e5c0.chunk.js.map",
+    "runtime-main.js": "/https//fbezall.github.io/monsters-rolex/static/js/runtime-main.eeeba098.js",
+    "runtime-main.js.map": "/https//fbezall.github.io/monsters-rolex/static/js/runtime-main.eeeba098.js.map",
+    "static/js/2.43cc1c02.chunk.js": "/https//fbezall.github.io/monsters-rolex/static/js/2.43cc1c02.chunk.js",
+    "static/js/2.43cc1c02.chunk.js.map": "/https//fbezall.github.io/monsters-rolex/static/js/2.43cc1c02.chunk.js.map",
+    "static/js/3.2226b786.chunk.js": "/https//fbezall.github.io/monsters-rolex/static/js/3.2226b786.chunk.js",
+    "static/js/3.2226b786.chunk.js.map": "/https//fbezall.github.io/monsters-rolex/static/js/3.2226b786.chunk.js.map",
+    "index.html": "/https//fbezall.github.io/monsters-rolex/index.html",
+    "static/css/main.ef620aec.chunk.css.map": "/https//fbezall.github.io/monsters-rolex/static/css/main.ef620aec.chunk.css.map",
+    "static/js/2.43cc1c02.chunk.js.LICENSE.txt": "/https//fbezall.github.io/monsters-rolex/static/js/2.43cc1c02.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eeeba098.js",
+    "static/js/2.43cc1c02.chunk.js",
+    "static/css/main.ef620aec.chunk.css",
+    "static/js/main.49a6e5c0.chunk.js"
+  ]
+}
